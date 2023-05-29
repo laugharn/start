@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
